@@ -9,10 +9,10 @@ void setup()
 {
   size(640,480);
   background(255);  
-  img0= loadImage("0.jpg");
-  img1= loadImage("1.jpg");
-  img2= loadImage("2.jpg");
-  img3= loadImage("3.jpg");
+  img0= loadImage("E3Pic/0.jpg");
+  img1= loadImage("E3Pic/1.jpg");
+  img2= loadImage("E3Pic/2.jpg");
+  img3= loadImage("E3Pic/3.jpg");
   x=0;
 }
 
